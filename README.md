@@ -1,2 +1,11 @@
-# css-guideline-skeleton
-A skeleton for your next big project in CSS.
+# Css Guideline Skeleton
+
+Manage your CSS the good way with this CSS skeleton.
+
+* [Installation]()
+* [About]()
+* [Analytics]()
+* [Convention Git]()
+* [Ressources]()
+
+Made by JACQUELIN Clément.
