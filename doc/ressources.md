@@ -3,7 +3,7 @@ Ressources
 
 
 
-###A11Y
+### A11Y
 
 * [a11y project](http://a11yproject.com/)
 * [a11y.css](http://ffoodd.github.io/a11y.css/)
@@ -15,22 +15,22 @@ Ressources
 
 ---
 
-###Analytics
+### Analytics
 * [Css stats](https://github.com/cssstats/cssstats)
 * [Parker](https://github.com/katiefenn/parker)
 
 ---
 
-###BEM
+### BEM
 * [BEM common problems and how to avoid them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/) by David Berner
 * [BEMIT](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/) by Harry Roberts
 * [Official doc BEM](https://en.bem.info/) by Yandex
 
 ---
 
-###Guideline
+### Guideline
 
-####Articles
+#### Articles
 
 * [Airbnb](https://github.com/airbnb/css)
 * [Alsacreations](https://github.com/alsacreations/guidelines)
@@ -51,7 +51,7 @@ Ressources
 >
 > *@mdo*
 
-####Framework
+#### Framework
 
 * [Dropbox](https://github.com/dropbox/css-style-guide)
 * [Polaris](https://polaris.shopify.com/) by Shopify
@@ -61,7 +61,7 @@ Ressources
 
 ---
 
-###Performance
+### Performance
 
 * [Authoring Critical Above-the-Fold CSS ](https://css-tricks.com/authoring-critical-fold-css/) by Css-tricks
 * [CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/) by Ben Frain
@@ -71,14 +71,14 @@ Ressources
 
 ---
 
-###Process
+### Process
 * [A propos des Redesign](https://uxdesign.cc/what-i-learned-from-redesign-journey-b866d8267eca) par Jessie Chen
 * [Refactoring CSS Without Losing Your Mind](https://speakerdeck.com/csswizardry/refactoring-css-without-losing-your-mind) par Harry Roberts
 * [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862)
 
 ---
 
-###Tools
+### Tools
 * [Can I use](http://caniuse.com/)
 * [Critical Path CSS Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/) by Jonas Ohlsson
 * [Css protips](https://github.com/AllThingsSmitty/css-protips/blob/master/README.md#use-the-lobotomized-owl-selector) by Matt Smith
@@ -94,24 +94,24 @@ Ressources
 
 ---
 
-###UI
+### UI
 
-####Inspiration
+#### Inspiration
 * [Behance](https://www.behance.net/) by Adobe
 * [Design d'interface & guideline](https://dribbble.com/jacquelinclem/buckets/350119-Guideline-UI-kit) bucket by Clément Jacquelin
 * [Dribbble](https://dribbble.com/)
 * [Muzli](https://medium.com/@usemuzli)
 * [Notifications](https://dribbble.com/shots/2910211--MakeitBetter-Dropbox/attachments/603031) by Dropbox
 
-####Articles
+#### Articles
 
 * [50 Shades of #FAFAFA](https://medium.com/@jon.moore/fifty-shades-of-fafafa-eaa903e36b9c)
 
 ---
 
-###UX
+### UX
 
-####Website & blog
+#### Website & blog
 
 * [Baymard](https://baymard.com/blog)
 * [NewFlux](https://newflux.fr/)
@@ -121,7 +121,7 @@ Ressources
 * [UX Movement](http://uxmovement.com/)
 * [UX Republic](http://www.ux-republic.com/blog/)
 
-####Article
+#### Article
 * [Accessible Interface Design - Part 1](https://uxplanet.org/accessible-interface-design-3c59ee3ec730) by Nick Babich
 * [10 Reasons You Should Ask For User Feedback](http://blog.usabilla.com/10-reasons-you-should-ask-for-user-feedback/) by Usabilla
 * [10 Rules For Efficient Form Design](http://babich.biz/10-rules-for-efficient-form-design/) by Nick Babich
