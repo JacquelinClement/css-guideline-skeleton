@@ -46,7 +46,7 @@ Ressources
 * [Scss-Styleguide with BEM, OOCSS & SMACSS](http://timhartmann.net/frontend-development/scss-styleguide-with-bem-oocss-smacss/) par Tim Hartmann
 * [Styleguides.io](http://styleguides.io/)
 * [Style Guides as Products](https://seesparkbox.com/foundry/style_guides_as_products) by Bryan Braun
-
+* [Setting Up a Design System](https://medium.com/sketch-app-sources/setting-up-a-design-system-8729510def93)
 >“Every line of code should appear to be written by a single person, no matter the number of contributors.”
 >
 > *@mdo*
